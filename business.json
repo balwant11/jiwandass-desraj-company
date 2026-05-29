@@ -16,10 +16,10 @@
       {
         "width": 1280,
         "height": 960,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-voIPutTQa87f5jCxV0xa4uBFhISKCN4lId9jzmDMaiy3LEISlf98pefNpydJ0Y4TMfHOvgj0qln_kOi8sXXrTFnPhrMsp00zev8yqXLexZV2mToKDaGHeHXPyVJkGBlTA_fkR20jEMyoDAKy3xd5Jni0QHT16dJlfXLg1jTGYHZNLpscBEc6Hwl_CFan2sZ5Lv-X-59IRG8tT8JTF_aeJVwGCLTGlsyzHlaCvDlS1lN1rm5XnH5-Ae5o2sT_TXMudDDN_sRk9hWbxiLoQnjWzrWq3lLOFeI-gCkMzDkTp4WbM80BuCdgOxmOt5PYjnKZWGZkPQH5Om5Z27-2l5nfsTz3J_I-jA1HZ4uRNZlSjirp5iRdIbfE-QAZ7wMUEqGOrOEsvHAwxT5QxfCQvtsfaZz3u-_3AAYDE1tsGDXzcC4g&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(2).jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-voIPutTQa87f5jCxV0xa4uBFhISKCN4lId9jzmDMaiy3LEISlf98pefNpydJ0Y4TMfHOvgj0qln_kOi8sXXrTFnPhrMsp00zev8yqXLexZV2mToKDaGHeHXPyVJkGBlTA_fkR20jEMyoDAKy3xd5Jni0QHT16dJlfXLg1jTGYHZNLpscBEc6Hwl_CFan2sZ5Lv-X-59IRG8tT8JTF_aeJVwGCLTGlsyzHlaCvDlS1lN1rm5XnH5-Ae5o2sT_TXMudDDN_sRk9hWbxiLoQnjWzrWq3lLOFeI-gCkMzDkTp4WbM80BuCdgOxmOt5PYjnKZWGZkPQH5Om5Z27-2l5nfsTz3J_I-jA1HZ4uRNZlSjirp5iRdIbfE-QAZ7wMUEqGOrOEsvHAwxT5QxfCQvtsfaZz3u-_3AAYDE1tsGDXzcC4g&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(2).jpg"
   },
   "website_config": {
     "theme": "luxury-fashion",
